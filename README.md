@@ -75,11 +75,6 @@ We welcome contributions!
 ---
 
 
-
-> Built with ❤️ by **Gr3ytrac3** (CyberDevHQ)
-
----
-
 # ✅ Quick Start Command
 
 ```bash
