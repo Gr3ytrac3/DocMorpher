@@ -46,7 +46,7 @@ pip install python-docx Pillow PyMuPDF
 ## 🧩 Usage
 
 ```bash
-python main.py
+python3 main.py
 ```
 
 
