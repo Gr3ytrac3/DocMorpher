@@ -6,17 +6,6 @@
 
 ---
 
-## 📜 Table of Contents
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Process Flow Diagram](#process-flow-diagram)
-- [Supported Formats](#supported-formats)
-- [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
-
----
 
 ## 🚀 Features
 - Detects file type (Document or Image) automatically.
@@ -92,24 +81,7 @@ Here’s a simple view of how **DocMorpher** works:
 
 ---
 
-## 📂 Project Structure
 
-```
-docmorpher/
-│
-├── main.py                 # Main execution file
-├── banner.py                # Banner display
-├── utils/
-│   ├── file_detection.py    # Detects file type
-│   ├── directory_helper.py  # Validates output directory
-├── engine/
-│   ├── conversion_engine.py # Handles file conversions
-├── venv/                    # (Optional) Virtual Environment
-├── requirements.txt         # Project dependencies
-└── README.md                # This file
-```
-
----
 
 ## 🤝 Contributing
 
@@ -123,12 +95,7 @@ We welcome contributions!
 
 ---
 
-## 🪪 License
 
-This project is licensed under the **MIT License**.  
-Feel free to use, modify, and distribute it as you wish.
-
----
 
 > Built with ❤️ by **Gr3ytrac3** (CyberDevHQ)
 
