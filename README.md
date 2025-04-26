@@ -2,6 +2,7 @@
 
 > **DocMorpher** is a simple, fast, and beginner-friendly **CLI tool** that converts **documents** (PDF, DOCX, TXT, ODT) and **images** (JPG, PNG, BMP, GIF) into various formats easily.  
 > Designed for learners, and anyone needing flexible document handling on Linux.
+> ![Process Diagram](https://github.com/Gr3ytrac3/DocMorpher/blob/90cc6ace7a54ac406b98318485141a7cfb80355e/Screenshot_2025-04-26_06_08_43.png)
 
 ---
 
