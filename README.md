@@ -2,7 +2,6 @@
 
 > **DocMorpher** is a simple, fast, and beginner-friendly **CLI tool** that converts **documents** (PDF, DOCX, TXT, ODT) and **images** (JPG, PNG, BMP, GIF) into various formats easily.  
 > Designed for learners, and anyone needing flexible document handling on Linux.
-> ![Process Diagram](https://github.com/Gr3ytrac3/DocMorpher/blob/90cc6ace7a54ac406b98318485141a7cfb80355e/Screenshot_2025-04-26_06_08_43.png)
 
 ---
 
@@ -10,10 +9,7 @@
 ## 🚀 Features
 - Detects file type (Document or Image) automatically.
 - Supports multiple conversion formats.
-- Process summary displayed before conversion.
-- Simple and elegant CLI interface.
-- Designed to run smoothly on **Linux** environments like **Kali Linux**.
-- Modular and beginner-friendly codebase.
+- Designed to run smoothly on **Linux**
 
 ---
 
@@ -53,14 +49,6 @@ pip install python-docx Pillow PyMuPDF
 python main.py
 ```
 
-You will be prompted to:
-- Enter the input file path.
-- Choose the desired output format(s).
-- Specify the output directory.
-
-✅ Sit back and let **DocMorpher** handle the conversion!
-
----
 
 ## 📈 Process Flow Diagram
 
@@ -69,15 +57,6 @@ Here’s a simple view of how **DocMorpher** works:
 > ![Process Diagram](https://github.com/Gr3ytrac3/DocMorpher/blob/24309fbb7aa26872c3705cbb3706fea3f3157853/Screenshot_2025-04-26_14_26_26.png)
 > ![Process Diagram](https://github.com/Gr3ytrac3/DocMorpher/blob/24309fbb7aa26872c3705cbb3706fea3f3157853/Screenshot_2025-04-26_14_26_56.png)
 > ![Process Diagram](https://github.com/Gr3ytrac3/DocMorpher/blob/24309fbb7aa26872c3705cbb3706fea3f3157853/Screenshot_2025-04-26_14_27_00.png)
-
----
-
-## 🧾 Supported Formats
-
-| Input Type | Formats to Convert Into |
-|:-----------|:-------------------------|
-| Document   | PDF, DOCX, TXT, ODT        |
-| Image      | JPG, PNG, BMP, GIF         |
 
 ---
 
