@@ -76,7 +76,9 @@ You will be prompted to:
 
 Here’s a simple view of how **DocMorpher** works:
 
-> ![Process Diagram](attachment://A_README_image_for_"DocMorpher"_is_displayed_in_a_.png)
+> ![Process Diagram](https://github.com/Gr3ytrac3/DocMorpher/blob/24309fbb7aa26872c3705cbb3706fea3f3157853/Screenshot_2025-04-26_14_26_26.png)
+> ![Process Diagram](https://github.com/Gr3ytrac3/DocMorpher/blob/24309fbb7aa26872c3705cbb3706fea3f3157853/Screenshot_2025-04-26_14_26_56.png)
+> ![Process Diagram](https://github.com/Gr3ytrac3/DocMorpher/blob/24309fbb7aa26872c3705cbb3706fea3f3157853/Screenshot_2025-04-26_14_27_00.png)
 
 ---
 
