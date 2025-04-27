@@ -1,3 +1,9 @@
-python-docx
-Pillow
+python-docx~=1.1.2
+Pillow~=11.2.1
 PyMuPDF
+
+docx~=0.2.4
+pdf2docx~=0.5.8
+rich~=14.0.0
+pyfiglet~=1.0.2
+termcolor~=3.0.1
