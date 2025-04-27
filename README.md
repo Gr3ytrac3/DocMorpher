@@ -17,7 +17,7 @@
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/docmorpher.git
+git clone https://github.com/Gr3ytrac3/DocMorpher.git
 
 # 2. Navigate into the project
 cd docmorpher
@@ -78,7 +78,7 @@ We welcome contributions!
 # ✅ Quick Start Command
 
 ```bash
-git clone https://github.com/yourusername/docmorpher.git && cd docmorpher && python3 main.py
+git clone https://github.com/Gr3ytrac3/DocMorpher.git && cd docmorpher && python3 main.py
 ```
 
 ---
