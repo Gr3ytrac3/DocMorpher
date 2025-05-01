@@ -7,8 +7,8 @@
 
 
 ## 🚀 Features
-- Detects file type (Document or Image) automatically.
-- Supports multiple conversion formats.
+- Detects file type (Document or Image) automatically
+- Supports multiple conversion formats
 - Designed to run smoothly on **Linux**
 
 ---
