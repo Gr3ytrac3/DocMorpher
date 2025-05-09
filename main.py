@@ -31,7 +31,7 @@ def main():
     for idx, fmt in enumerate(available_formats, 1):
         print(f"{idx}. {fmt}")
 
-    choices = input("\n[+] Enter the numbers of the formats you want (comma-separated, e.g., 1,3): ").split(",")
+    choices = input("\n[+] Enter the numbers of the format(s) you want (comma-separated, e.g., 1,3): ").split(",")
 
     selected_formats = []
     for choice in choices:
