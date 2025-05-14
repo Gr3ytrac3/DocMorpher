@@ -81,4 +81,4 @@ We welcome contributions!
 git clone https://github.com/Gr3ytrac3/DocMorpher.git && cd docmorpher && python3 main.py
 ```
 
-© 2025 Acimphoger | Crafted by Cyberdev
+© 2025 RedKernel | Crafted by Cyberdev
